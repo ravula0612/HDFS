@@ -1,0 +1,26 @@
+What is File System ?
+ the file system is that will help you store the data inside the hard disk drive(HDD). EXamples:- {NTFS, FTS}
+ 
+what is the Block? 
+when you write large amount of data to your HDD , its underlined file system will make that data into small small blocks { that partions files}.
+
+
+what different file system? 
+ standalone and distributed file system
+
+master - slave concept {hadoop and spark mostly all demanded softwares are using this only.....}
+
+NOte : when it comes to Hadoop , we need to know about the two things one is HDFS and MAP REDUCE concepts
+
+what is process? program in excution 
+what is demon process? it is a background process.
+
+what is node ? is a single virtual machine.
+what is cluster? group of nodes
+
+
+what is an api? any request you sent to an machine is an api....
+
+Rack avernace policy algorithm
+heart beat communication btn the master-slave cluster system
+refer this @ https://www.youtube.com/@dataengineeringvideos
